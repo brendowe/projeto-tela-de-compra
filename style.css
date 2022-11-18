@@ -29,7 +29,6 @@ html {
     display: flex;
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
-    margin-top: -45px;
     font-size: 13px;
     align-content: center;
     padding-left: 15px;
@@ -39,11 +38,9 @@ html {
     font-size: 13px;
     font-weight: 500;
     width: 270px;
-    margin-top: -10px;
 }
 
 h1 {
-    margin-top: -5px;
     font-size: 30px;
     font-weight: 700;
 }
