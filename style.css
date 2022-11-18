@@ -28,14 +28,12 @@ html {
 }
 
 #texto {
-    display: flex;
-    flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     font-size: 13px;
     align-content: center;
     padding-left: 15px;
     background-color: hsl(0, 0%, 100%);
-    width: 90vw;
+    width: 85.5vw;
 }
 
 #descricao {
