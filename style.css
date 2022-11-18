@@ -39,6 +39,7 @@ html {
 h1 {
     font-size: 30px;
     font-weight: 700;
+    font-family: 'Fraunces', serif;
 }
 
 #descricao {
@@ -48,13 +49,15 @@ h1 {
 }
 
 #precos {
-    font-family: 'Fraunces', serif;
+    
 }
 
 #p1 {
     display: inline-block;
     color: hsl(158, 36%, 37%);
     font-size: 30px;
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
 }
 
 #p2 {
