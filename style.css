@@ -45,10 +45,11 @@ h1 {
 }
 
 #descricao {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     width: 270px;
     color: hsl(228, 12%, 48%);
+    margin-bottom: 0;
 }
 
 #precos {
@@ -70,4 +71,13 @@ h1 {
     text-decoration: line-through;
     padding-left: 20px;
     color: hsl(228, 12%, 48%);
+}
+
+#botao {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(158, 36%, 37%);
+    font-family: 'Montserrat', sans-serif;
+    width: 60vw;
+    height: 5vh;
+    border-radius: 5%;
 }
