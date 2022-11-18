@@ -13,16 +13,18 @@ html {
     display: flex;
     flex-direction: column;
     align-content: center;
-    background-color: hsl(0, 0%, 100%);
+    align-items: center;
+    background-color: hsl(30, 38%, 92%);
 }
 
 #imagem {
+    display: flex;
     background-image: url(images/image-product-mobile.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-    border-radius: 5%;
-    height: 40vh;
-    margin-top: 15px;
+    border-radius: 5% 5% 0% 0%;
+    width: 90vw;
+    height: 35vh;
 }
 
 #texto {
@@ -32,6 +34,8 @@ html {
     font-size: 13px;
     align-content: center;
     padding-left: 15px;
+    background-color: hsl(0, 0%, 100%);
+    width: 86vw;
 }
 
 #descricao {
