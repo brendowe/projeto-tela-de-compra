@@ -34,6 +34,7 @@ html {
     padding-left: 15px;
     background-color: hsl(0, 0%, 100%);
     width: 86vw;
+    border-radius: 5%;
 }
 
 h1 {
@@ -46,6 +47,7 @@ h1 {
     font-size: 13px;
     font-weight: 500;
     width: 270px;
+    color: hsl(228, 12%, 48%)
 }
 
 #precos {
