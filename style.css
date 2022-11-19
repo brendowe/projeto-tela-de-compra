@@ -39,6 +39,10 @@ html {
     border-radius: 0% 0% 5% 5%;
 }
 
+#perf {
+    color: hsl(228, 12%, 48%);
+}
+
 h1 {
     font-size: 30px;
     font-weight: 700;
