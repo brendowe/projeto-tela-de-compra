@@ -23,8 +23,8 @@ html {
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 5% 5% 0% 0%;
-    width: 90vw;
-    height: 35vh;
+    width: 89vw;
+    height: 35vh;    
 }
 
 #texto {
@@ -87,4 +87,5 @@ h1 {
 
 #oi {
     text-align: center;
+    
 }
