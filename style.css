@@ -79,9 +79,12 @@ h1 {
     background-color: hsl(158, 36%, 37%);
     font-family: 'Montserrat', sans-serif;
     width: 300px;
-    height: 6vh;
+    height: 50px;
     border-radius: 5%;
     margin-bottom: 30px;
-    display: block;
-    align-self: center;
+
+}
+
+#oi {
+    text-align: center;
 }
