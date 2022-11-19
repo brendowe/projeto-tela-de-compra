@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
 
 html {
-    height: 80vh;
+    height: 100vh;
     background-color: hsl(30, 38%, 92%);
 }
 
