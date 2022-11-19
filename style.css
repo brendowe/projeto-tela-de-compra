@@ -16,7 +16,7 @@ html {
     align-items: center;
     align-self: center;
     background-color: hsl(30, 38%, 92%);
-    width: 80vw;
+    width: 76vw;
     margin: auto;
 }
 
@@ -27,7 +27,7 @@ html {
     background-repeat: no-repeat;
     border-radius: 5% 5% 0% 0%;
     height: 30vh;
-    width: 80vw;
+    width: 76vw;
 }
 
 #texto {
