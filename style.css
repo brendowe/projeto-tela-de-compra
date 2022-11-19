@@ -16,19 +16,18 @@ html {
     align-items: center;
     align-self: center;
     background-color: hsl(30, 38%, 92%);
-    width: 76vw;
+    width: 90vw;
     margin: auto;
     height: 100vh;
 }
 
 #imagem {
-    display: flex;
     background-image: url(images/image-product-mobile.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 5% 5% 0% 0%;
     height: 30vh;
-    width: 76vw;
+    width: 90vw;
 }
 
 #texto {
