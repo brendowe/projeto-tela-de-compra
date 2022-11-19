@@ -18,6 +18,7 @@ html {
     background-color: hsl(30, 38%, 92%);
     width: 76vw;
     margin: auto;
+    height: 80vh;
 }
 
 #imagem {
@@ -28,7 +29,6 @@ html {
     border-radius: 5% 5% 0% 0%;
     height: 30vh;
     width: 76vw;
-    margin: auto;
 }
 
 #texto {
