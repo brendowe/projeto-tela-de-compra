@@ -80,16 +80,25 @@ h1 {
 }
 
 #botao {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     color: hsl(0, 0%, 100%);
     background-color: hsl(158, 36%, 37%);
     font-family: 'Montserrat', sans-serif;
     width: 250px;
     height: 50px;
     border-radius: 10px;
-    margin-bottom: 30px;
     border-color: hsl(0, 0%, 100%);
+    margin: auto;
 }
 
 #oi {
-    text-align: center;
+    margin-bottom: 25px;
+    padding-right: 16.5px;
+
+}
+
+.material-icons {
+    padding-top: 6px;
 }
