@@ -17,6 +17,7 @@ html {
     align-self: center;
     background-color: hsl(30, 38%, 92%);
     width: 90vw;
+    height: 90vh;
     margin: auto;
 }
 
