@@ -91,6 +91,7 @@ h1 {
     border-radius: 10px;
     border-color: hsl(0, 0%, 100%);
     margin: auto;
+    padding-top: 13px;
 }
 
 #oi {
@@ -100,5 +101,5 @@ h1 {
 }
 
 .material-icons {
-    padding-top: 6px;
+
 }
