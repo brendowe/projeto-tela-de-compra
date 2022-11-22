@@ -1,0 +1,32 @@
+@media screen and (min-width: 992px) {
+    #container {
+        display: flex;
+        flex-direction: row;
+        background-color: hsl(30, 38%, 92%);
+        width: 40vw;
+        height: 90vh;
+    }
+
+    #imagem {
+        display: flex;
+        background-image: url(images/image-product-desktop.jpg);
+        background-size: cover;
+        width: 20vw;
+        height: 50vh;
+        border-radius: 3% 0% 0% 3%;
+    }
+
+    #texto {
+        display: flex;
+        flex-direction: column;
+        width: 20vw;
+        height: 50vh;
+        border-radius: 0% 3% 3% 0%;
+    }
+
+    #botao:hover {
+        cursor: pointer;
+        background-color: hsl(158, 53%, 19%);
+    }
+
+}
