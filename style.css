@@ -19,6 +19,7 @@ html {
     background-color: hsl(30, 38%, 92%);
     width: 90vw;
     margin: auto;
+    margin-bottom: 20px;
 }
 
 #imagem {
@@ -90,16 +91,12 @@ h1 {
     height: 50px;
     border-radius: 10px;
     border-color: hsl(0, 0%, 100%);
-    margin: auto;
-    padding-top: 13px;
+    padding-top: 12px;
 }
 
 #oi {
-    margin-bottom: 25px;
+    position: relative;
+    bottom: 10px;
     padding-right: 16.5px;
-
 }
 
-.material-icons {
-
-}
